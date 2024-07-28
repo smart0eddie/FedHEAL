@@ -20,7 +20,7 @@ from datasets import get_prive_dataset
 from models import get_model
 from utils.training import train
 from utils.best_args import best_args
-from utils.conf import set_random_seed
+from utils.conf import init_path, set_random_seed
 
 import torch
 import uuid
@@ -37,6 +37,10 @@ def parse_args():
     parser.add_argument('--parti_num', type=int, default=20, help='The Number for Participants')
     parser.add_argument('--seed', type=int, default=0, help='The random seed.')
     parser.add_argument('--rand_dataset', type=int, default=0, help='The random seed.')
+
+    parser.add_argument('--data_path', type=str, default='./data')
+    parser.add_argument('--base_path', type=str, default='./log')
+    parser.add_argument('--checkpoint_path', type=str, default='./checkpoint')
 
     parser.add_argument('--model', type=str, default='fedavgheal', 
                         help='Model name.', choices=get_all_models())
@@ -73,6 +77,9 @@ def parse_args():
 
     if args.seed is not None:
         set_random_seed(args.seed)
+        
+    init_path(args)
+    
     return args
 
 
