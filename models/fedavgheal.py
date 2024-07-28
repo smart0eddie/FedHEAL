@@ -15,7 +15,7 @@ class FedAvGHEAL(FederatedModel):
         super(FedAvGHEAL, self).__init__(nets_list,args,transform)
         
         self.client_update = {}
-        self.increase_history = None
+        self.increase_history = []
         self.mask_dict = {}
         
         self.euclidean_distance = {}
