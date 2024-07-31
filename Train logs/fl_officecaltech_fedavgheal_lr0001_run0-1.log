@@ -1,0 +1,1605 @@
+fedavgheal_20_fl_officecaltech_200_10
+Counter({'dslr': 5, 'caltech10': 5, 'amazon': 5, 'webcam': 5})
+['dslr' 'caltech10' 'dslr' 'amazon' 'webcam' 'dslr' 'amazon' 'webcam'
+ 'caltech10' 'caltech10' 'amazon' 'webcam' 'amazon' 'amazon' 'dslr'
+ 'webcam' 'caltech10' 'caltech10' 'dslr' 'webcam']
+0
+[11, 1, 18, 17, 2, 12, 19, 16, 10, 0, 3, 4, 15, 8, 13, 9, 5, 14, 7, 6]
+The 0 Communcation Round: Method: fedavgheal
+caltech10: 9.82,	amazon: 10.0,	webcam: 10.34,	dslr: 13.33
+Mean Accuracy: 10.873
+Standard Deviation: 1.652
+
+
+1
+[15, 13, 12, 5, 11, 2, 8, 6, 3, 17, 4, 10, 16, 18, 9, 1, 0, 7, 14, 19]
+The 1 Communcation Round: Method: fedavgheal
+caltech10: 25.0,	amazon: 17.89,	webcam: 31.03,	dslr: 33.33
+Mean Accuracy: 26.812
+Standard Deviation: 6.908
+
+
+2
+[18, 0, 13, 2, 3, 17, 7, 12, 14, 16, 11, 10, 9, 15, 1, 19, 8, 6, 5, 4]
+The 2 Communcation Round: Method: fedavgheal
+caltech10: 22.77,	amazon: 21.58,	webcam: 32.76,	dslr: 23.33
+Mean Accuracy: 25.110
+Standard Deviation: 5.152
+
+
+3
+[7, 1, 2, 19, 5, 18, 8, 17, 15, 16, 6, 13, 11, 4, 10, 9, 12, 3, 14, 0]
+The 3 Communcation Round: Method: fedavgheal
+caltech10: 27.68,	amazon: 20.0,	webcam: 34.48,	dslr: 36.67
+Mean Accuracy: 29.707
+Standard Deviation: 7.519
+
+
+4
+[12, 6, 10, 8, 17, 7, 4, 2, 18, 11, 14, 0, 19, 9, 5, 1, 16, 13, 15, 3]
+The 4 Communcation Round: Method: fedavgheal
+caltech10: 27.68,	amazon: 19.47,	webcam: 36.21,	dslr: 40.0
+Mean Accuracy: 30.840
+Standard Deviation: 9.165
+
+
+5
+[18, 14, 6, 4, 5, 3, 8, 1, 12, 17, 19, 11, 2, 10, 0, 15, 9, 7, 16, 13]
+The 5 Communcation Round: Method: fedavgheal
+caltech10: 30.8,	amazon: 23.16,	webcam: 36.21,	dslr: 40.0
+Mean Accuracy: 32.543
+Standard Deviation: 7.306
+
+
+6
+[5, 18, 13, 16, 12, 11, 7, 0, 19, 2, 8, 6, 15, 4, 1, 10, 9, 14, 17, 3]
+The 6 Communcation Round: Method: fedavgheal
+caltech10: 33.48,	amazon: 23.16,	webcam: 32.76,	dslr: 33.33
+Mean Accuracy: 30.683
+Standard Deviation: 5.025
+
+
+7
+[6, 1, 5, 9, 4, 12, 7, 15, 10, 16, 18, 19, 0, 11, 17, 14, 3, 2, 13, 8]
+The 7 Communcation Round: Method: fedavgheal
+caltech10: 33.04,	amazon: 28.42,	webcam: 37.93,	dslr: 36.67
+Mean Accuracy: 34.015
+Standard Deviation: 4.267
+
+
+8
+[2, 16, 15, 17, 19, 1, 7, 5, 10, 18, 8, 9, 6, 12, 11, 13, 3, 4, 0, 14]
+The 8 Communcation Round: Method: fedavgheal
+caltech10: 34.82,	amazon: 28.42,	webcam: 39.66,	dslr: 36.67
+Mean Accuracy: 34.892
+Standard Deviation: 4.753
+
+
+9
+[15, 13, 3, 10, 12, 2, 18, 16, 17, 7, 5, 6, 9, 14, 11, 4, 0, 8, 1, 19]
+The 9 Communcation Round: Method: fedavgheal
+caltech10: 33.04,	amazon: 33.68,	webcam: 39.66,	dslr: 36.67
+Mean Accuracy: 35.763
+Standard Deviation: 3.042
+
+
+10
+[19, 9, 2, 4, 14, 8, 0, 11, 7, 5, 13, 16, 6, 18, 10, 17, 15, 3, 12, 1]
+The 10 Communcation Round: Method: fedavgheal
+caltech10: 37.05,	amazon: 35.79,	webcam: 37.93,	dslr: 33.33
+Mean Accuracy: 36.025
+Standard Deviation: 2.000
+
+
+11
+[0, 17, 1, 16, 6, 12, 14, 10, 4, 13, 18, 7, 9, 3, 19, 2, 8, 15, 5, 11]
+The 11 Communcation Round: Method: fedavgheal
+caltech10: 36.16,	amazon: 32.11,	webcam: 41.38,	dslr: 36.67
+Mean Accuracy: 36.580
+Standard Deviation: 3.795
+
+
+12
+[17, 13, 15, 8, 0, 6, 2, 4, 1, 5, 16, 7, 11, 10, 19, 18, 12, 14, 3, 9]
+The 12 Communcation Round: Method: fedavgheal
+caltech10: 37.5,	amazon: 41.05,	webcam: 36.21,	dslr: 43.33
+Mean Accuracy: 39.522
+Standard Deviation: 3.261
+
+
+13
+[9, 16, 13, 19, 6, 7, 17, 3, 12, 10, 1, 8, 18, 15, 14, 5, 2, 11, 0, 4]
+The 13 Communcation Round: Method: fedavgheal
+caltech10: 37.95,	amazon: 30.53,	webcam: 43.1,	dslr: 46.67
+Mean Accuracy: 39.562
+Standard Deviation: 7.005
+
+
+14
+[0, 14, 12, 6, 18, 17, 11, 8, 9, 10, 5, 15, 4, 13, 16, 2, 1, 19, 7, 3]
+The 14 Communcation Round: Method: fedavgheal
+caltech10: 42.86,	amazon: 41.58,	webcam: 39.66,	dslr: 46.67
+Mean Accuracy: 42.692
+Standard Deviation: 2.960
+
+
+15
+[18, 3, 4, 19, 15, 17, 10, 8, 1, 0, 2, 12, 16, 5, 14, 13, 9, 11, 7, 6]
+The 15 Communcation Round: Method: fedavgheal
+caltech10: 41.07,	amazon: 38.42,	webcam: 41.38,	dslr: 40.0
+Mean Accuracy: 40.218
+Standard Deviation: 1.336
+
+
+16
+[2, 5, 11, 6, 9, 15, 16, 12, 4, 17, 1, 10, 13, 7, 18, 19, 0, 14, 8, 3]
+The 16 Communcation Round: Method: fedavgheal
+caltech10: 40.18,	amazon: 42.11,	webcam: 37.93,	dslr: 46.67
+Mean Accuracy: 41.722
+Standard Deviation: 3.714
+
+
+17
+[1, 13, 15, 9, 2, 6, 17, 18, 11, 12, 0, 5, 8, 7, 16, 19, 3, 4, 14, 10]
+The 17 Communcation Round: Method: fedavgheal
+caltech10: 42.86,	amazon: 37.37,	webcam: 44.83,	dslr: 43.33
+Mean Accuracy: 42.097
+Standard Deviation: 3.262
+
+
+18
+[8, 15, 4, 13, 0, 19, 6, 1, 12, 16, 7, 11, 10, 5, 14, 18, 2, 9, 3, 17]
+The 18 Communcation Round: Method: fedavgheal
+caltech10: 41.96,	amazon: 42.11,	webcam: 37.93,	dslr: 43.33
+Mean Accuracy: 41.332
+Standard Deviation: 2.350
+
+
+19
+[2, 4, 1, 19, 5, 11, 0, 18, 14, 8, 7, 15, 6, 16, 13, 12, 9, 10, 17, 3]
+The 19 Communcation Round: Method: fedavgheal
+caltech10: 45.54,	amazon: 46.32,	webcam: 36.21,	dslr: 43.33
+Mean Accuracy: 42.850
+Standard Deviation: 4.604
+
+
+20
+[19, 10, 14, 1, 5, 18, 15, 11, 16, 13, 8, 0, 12, 2, 9, 4, 7, 17, 6, 3]
+The 20 Communcation Round: Method: fedavgheal
+caltech10: 45.54,	amazon: 46.84,	webcam: 37.93,	dslr: 43.33
+Mean Accuracy: 43.410
+Standard Deviation: 3.930
+
+
+21
+[16, 12, 2, 10, 11, 18, 13, 14, 4, 8, 3, 0, 6, 15, 17, 9, 7, 19, 5, 1]
+The 21 Communcation Round: Method: fedavgheal
+caltech10: 42.86,	amazon: 43.68,	webcam: 36.21,	dslr: 40.0
+Mean Accuracy: 40.688
+Standard Deviation: 3.376
+
+
+22
+[15, 9, 7, 5, 19, 2, 14, 12, 3, 6, 17, 11, 8, 13, 10, 0, 16, 18, 4, 1]
+The 22 Communcation Round: Method: fedavgheal
+caltech10: 44.64,	amazon: 45.79,	webcam: 37.93,	dslr: 40.0
+Mean Accuracy: 42.090
+Standard Deviation: 3.736
+
+
+23
+[19, 9, 17, 13, 2, 15, 6, 5, 18, 16, 8, 7, 0, 14, 1, 10, 4, 12, 3, 11]
+The 23 Communcation Round: Method: fedavgheal
+caltech10: 43.3,	amazon: 44.21,	webcam: 32.76,	dslr: 43.33
+Mean Accuracy: 40.900
+Standard Deviation: 5.443
+
+
+24
+[11, 10, 2, 17, 14, 12, 15, 18, 6, 8, 7, 19, 16, 5, 9, 3, 13, 0, 4, 1]
+The 24 Communcation Round: Method: fedavgheal
+caltech10: 43.75,	amazon: 48.42,	webcam: 39.66,	dslr: 46.67
+Mean Accuracy: 44.625
+Standard Deviation: 3.830
+
+
+25
+[12, 10, 4, 6, 2, 1, 13, 15, 18, 8, 16, 17, 19, 3, 9, 14, 11, 5, 0, 7]
+The 25 Communcation Round: Method: fedavgheal
+caltech10: 45.54,	amazon: 49.47,	webcam: 32.76,	dslr: 50.0
+Mean Accuracy: 44.442
+Standard Deviation: 8.038
+
+
+26
+[16, 5, 17, 7, 8, 10, 13, 3, 15, 4, 18, 2, 9, 11, 12, 1, 6, 19, 14, 0]
+The 26 Communcation Round: Method: fedavgheal
+caltech10: 47.32,	amazon: 49.47,	webcam: 43.1,	dslr: 46.67
+Mean Accuracy: 46.640
+Standard Deviation: 2.646
+
+
+27
+[1, 0, 11, 5, 16, 8, 14, 19, 12, 6, 15, 10, 9, 3, 2, 7, 18, 13, 17, 4]
+The 27 Communcation Round: Method: fedavgheal
+caltech10: 45.09,	amazon: 48.95,	webcam: 43.1,	dslr: 43.33
+Mean Accuracy: 45.118
+Standard Deviation: 2.705
+
+
+28
+[14, 17, 16, 18, 1, 4, 2, 3, 19, 12, 9, 5, 6, 7, 13, 11, 10, 0, 8, 15]
+The 28 Communcation Round: Method: fedavgheal
+caltech10: 49.11,	amazon: 52.63,	webcam: 43.1,	dslr: 46.67
+Mean Accuracy: 47.877
+Standard Deviation: 4.016
+
+
+29
+[6, 15, 17, 7, 8, 18, 3, 10, 16, 11, 9, 0, 12, 1, 2, 13, 19, 4, 5, 14]
+The 29 Communcation Round: Method: fedavgheal
+caltech10: 44.64,	amazon: 49.47,	webcam: 41.38,	dslr: 50.0
+Mean Accuracy: 46.373
+Standard Deviation: 4.110
+
+
+30
+[19, 18, 13, 16, 10, 7, 9, 4, 6, 8, 14, 11, 17, 12, 3, 15, 2, 5, 0, 1]
+The 30 Communcation Round: Method: fedavgheal
+caltech10: 49.11,	amazon: 50.53,	webcam: 43.1,	dslr: 50.0
+Mean Accuracy: 48.185
+Standard Deviation: 3.440
+
+
+31
+[14, 8, 7, 12, 16, 10, 0, 2, 15, 3, 1, 11, 17, 19, 4, 9, 13, 18, 5, 6]
+The 31 Communcation Round: Method: fedavgheal
+caltech10: 48.66,	amazon: 55.79,	webcam: 44.83,	dslr: 50.0
+Mean Accuracy: 49.820
+Standard Deviation: 4.543
+
+
+32
+[0, 18, 4, 13, 15, 2, 3, 9, 17, 7, 8, 16, 11, 14, 10, 12, 6, 19, 1, 5]
+The 32 Communcation Round: Method: fedavgheal
+caltech10: 47.32,	amazon: 46.84,	webcam: 37.93,	dslr: 46.67
+Mean Accuracy: 44.690
+Standard Deviation: 4.515
+
+
+33
+[6, 12, 9, 11, 2, 10, 0, 7, 15, 16, 13, 18, 19, 8, 17, 1, 4, 5, 14, 3]
+The 33 Communcation Round: Method: fedavgheal
+caltech10: 51.34,	amazon: 52.11,	webcam: 39.66,	dslr: 50.0
+Mean Accuracy: 48.278
+Standard Deviation: 5.811
+
+
+34
+[10, 5, 9, 19, 8, 13, 15, 3, 2, 0, 18, 6, 12, 17, 1, 4, 16, 14, 11, 7]
+The 34 Communcation Round: Method: fedavgheal
+caltech10: 52.23,	amazon: 52.63,	webcam: 43.1,	dslr: 50.0
+Mean Accuracy: 49.490
+Standard Deviation: 4.414
+
+
+35
+[8, 16, 6, 13, 1, 17, 15, 10, 11, 19, 5, 18, 3, 7, 4, 2, 9, 12, 0, 14]
+The 35 Communcation Round: Method: fedavgheal
+caltech10: 50.45,	amazon: 51.58,	webcam: 41.38,	dslr: 50.0
+Mean Accuracy: 48.352
+Standard Deviation: 4.696
+
+
+36
+[8, 5, 18, 9, 6, 15, 11, 12, 13, 19, 2, 16, 0, 4, 7, 1, 17, 10, 3, 14]
+The 36 Communcation Round: Method: fedavgheal
+caltech10: 49.55,	amazon: 53.16,	webcam: 44.83,	dslr: 53.33
+Mean Accuracy: 50.218
+Standard Deviation: 3.992
+
+
+37
+[11, 14, 18, 15, 6, 16, 2, 17, 3, 13, 0, 7, 5, 1, 8, 12, 10, 9, 19, 4]
+The 37 Communcation Round: Method: fedavgheal
+caltech10: 52.68,	amazon: 50.53,	webcam: 43.1,	dslr: 50.0
+Mean Accuracy: 49.078
+Standard Deviation: 4.150
+
+
+38
+[13, 4, 17, 1, 5, 9, 16, 14, 0, 6, 15, 3, 2, 19, 12, 11, 10, 7, 18, 8]
+The 38 Communcation Round: Method: fedavgheal
+caltech10: 50.89,	amazon: 50.0,	webcam: 44.83,	dslr: 46.67
+Mean Accuracy: 48.097
+Standard Deviation: 2.836
+
+
+39
+[14, 12, 3, 16, 8, 5, 13, 7, 10, 15, 1, 19, 9, 4, 0, 17, 11, 6, 18, 2]
+The 39 Communcation Round: Method: fedavgheal
+caltech10: 51.79,	amazon: 48.42,	webcam: 37.93,	dslr: 60.0
+Mean Accuracy: 49.535
+Standard Deviation: 9.138
+
+
+40
+[17, 7, 10, 1, 8, 4, 14, 0, 16, 9, 12, 3, 13, 15, 5, 2, 11, 18, 19, 6]
+The 40 Communcation Round: Method: fedavgheal
+caltech10: 53.12,	amazon: 53.16,	webcam: 39.66,	dslr: 63.33
+Mean Accuracy: 52.317
+Standard Deviation: 9.710
+
+
+41
+[7, 2, 17, 16, 11, 1, 3, 10, 19, 14, 8, 0, 4, 6, 5, 9, 18, 13, 12, 15]
+The 41 Communcation Round: Method: fedavgheal
+caltech10: 50.89,	amazon: 52.63,	webcam: 43.1,	dslr: 63.33
+Mean Accuracy: 52.487
+Standard Deviation: 8.332
+
+
+42
+[2, 16, 9, 8, 17, 15, 19, 11, 1, 13, 18, 14, 4, 5, 3, 6, 7, 0, 12, 10]
+The 42 Communcation Round: Method: fedavgheal
+caltech10: 53.12,	amazon: 52.11,	webcam: 41.38,	dslr: 53.33
+Mean Accuracy: 49.985
+Standard Deviation: 5.761
+
+
+43
+[16, 2, 7, 11, 6, 18, 1, 14, 13, 8, 5, 12, 4, 9, 19, 0, 17, 3, 10, 15]
+The 43 Communcation Round: Method: fedavgheal
+caltech10: 56.25,	amazon: 53.16,	webcam: 43.1,	dslr: 63.33
+Mean Accuracy: 53.960
+Standard Deviation: 8.399
+
+
+44
+[5, 16, 8, 13, 3, 17, 10, 9, 2, 18, 11, 12, 7, 19, 0, 4, 1, 14, 6, 15]
+The 44 Communcation Round: Method: fedavgheal
+caltech10: 54.46,	amazon: 51.58,	webcam: 41.38,	dslr: 60.0
+Mean Accuracy: 51.855
+Standard Deviation: 7.809
+
+
+45
+[17, 10, 6, 1, 8, 12, 15, 16, 9, 19, 4, 5, 0, 11, 13, 18, 3, 2, 7, 14]
+The 45 Communcation Round: Method: fedavgheal
+caltech10: 54.46,	amazon: 52.11,	webcam: 41.38,	dslr: 66.67
+Mean Accuracy: 53.655
+Standard Deviation: 10.378
+
+
+46
+[7, 0, 13, 18, 2, 17, 9, 12, 11, 10, 19, 3, 15, 14, 8, 6, 16, 5, 1, 4]
+The 46 Communcation Round: Method: fedavgheal
+caltech10: 54.46,	amazon: 56.84,	webcam: 41.38,	dslr: 63.33
+Mean Accuracy: 54.002
+Standard Deviation: 9.212
+
+
+47
+[4, 13, 19, 12, 2, 6, 11, 9, 16, 7, 3, 0, 18, 5, 15, 14, 1, 10, 8, 17]
+The 47 Communcation Round: Method: fedavgheal
+caltech10: 54.91,	amazon: 51.05,	webcam: 39.66,	dslr: 66.67
+Mean Accuracy: 53.073
+Standard Deviation: 11.139
+
+
+48
+[14, 17, 10, 4, 13, 19, 2, 8, 7, 1, 12, 3, 6, 18, 11, 0, 16, 9, 5, 15]
+The 48 Communcation Round: Method: fedavgheal
+caltech10: 55.8,	amazon: 57.89,	webcam: 41.38,	dslr: 66.67
+Mean Accuracy: 55.435
+Standard Deviation: 10.487
+
+
+49
+[17, 19, 18, 7, 12, 0, 3, 14, 9, 11, 13, 16, 1, 4, 15, 6, 5, 10, 8, 2]
+The 49 Communcation Round: Method: fedavgheal
+caltech10: 50.89,	amazon: 52.63,	webcam: 39.66,	dslr: 63.33
+Mean Accuracy: 51.627
+Standard Deviation: 9.691
+
+
+50
+[0, 19, 14, 10, 7, 8, 12, 5, 16, 6, 1, 18, 11, 13, 15, 3, 2, 17, 4, 9]
+The 50 Communcation Round: Method: fedavgheal
+caltech10: 55.36,	amazon: 54.21,	webcam: 39.66,	dslr: 63.33
+Mean Accuracy: 53.140
+Standard Deviation: 9.859
+
+
+51
+[18, 12, 14, 6, 17, 8, 5, 7, 10, 9, 13, 0, 3, 1, 16, 11, 2, 15, 19, 4]
+The 51 Communcation Round: Method: fedavgheal
+caltech10: 52.68,	amazon: 56.32,	webcam: 39.66,	dslr: 66.67
+Mean Accuracy: 53.832
+Standard Deviation: 11.153
+
+
+52
+[0, 19, 11, 15, 8, 1, 17, 12, 10, 6, 13, 4, 18, 7, 9, 5, 2, 14, 3, 16]
+The 52 Communcation Round: Method: fedavgheal
+caltech10: 52.23,	amazon: 54.21,	webcam: 44.83,	dslr: 66.67
+Mean Accuracy: 54.485
+Standard Deviation: 9.071
+
+
+53
+[10, 8, 12, 18, 1, 16, 15, 17, 0, 7, 5, 19, 9, 2, 14, 11, 6, 4, 13, 3]
+The 53 Communcation Round: Method: fedavgheal
+caltech10: 53.57,	amazon: 56.32,	webcam: 41.38,	dslr: 66.67
+Mean Accuracy: 54.485
+Standard Deviation: 10.399
+
+
+54
+[10, 6, 16, 19, 15, 18, 2, 4, 14, 17, 13, 7, 1, 3, 5, 12, 11, 8, 9, 0]
+The 54 Communcation Round: Method: fedavgheal
+caltech10: 54.46,	amazon: 56.32,	webcam: 44.83,	dslr: 66.67
+Mean Accuracy: 55.570
+Standard Deviation: 8.951
+
+
+55
+[4, 10, 7, 9, 3, 17, 5, 12, 8, 6, 19, 18, 15, 16, 0, 14, 1, 2, 13, 11]
+The 55 Communcation Round: Method: fedavgheal
+caltech10: 54.91,	amazon: 54.74,	webcam: 44.83,	dslr: 66.67
+Mean Accuracy: 55.288
+Standard Deviation: 8.932
+
+
+56
+[2, 7, 1, 11, 8, 14, 17, 6, 18, 13, 19, 10, 12, 9, 16, 3, 15, 5, 0, 4]
+The 56 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 54.21,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 56.465
+Standard Deviation: 7.665
+
+
+57
+[19, 13, 1, 3, 5, 4, 14, 6, 2, 16, 10, 9, 8, 18, 7, 12, 17, 15, 11, 0]
+The 57 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 58.95,	webcam: 48.28,	dslr: 70.0
+Mean Accuracy: 58.593
+Standard Deviation: 8.920
+
+
+58
+[3, 5, 19, 6, 18, 8, 0, 9, 7, 10, 17, 1, 4, 2, 16, 14, 13, 11, 15, 12]
+The 58 Communcation Round: Method: fedavgheal
+caltech10: 53.57,	amazon: 57.37,	webcam: 39.66,	dslr: 66.67
+Mean Accuracy: 54.317
+Standard Deviation: 11.215
+
+
+59
+[4, 1, 9, 3, 7, 19, 11, 15, 5, 13, 14, 8, 2, 10, 16, 12, 18, 0, 6, 17]
+The 59 Communcation Round: Method: fedavgheal
+caltech10: 54.46,	amazon: 55.26,	webcam: 46.55,	dslr: 66.67
+Mean Accuracy: 55.735
+Standard Deviation: 8.282
+
+
+60
+[19, 8, 12, 17, 0, 14, 15, 13, 11, 2, 6, 18, 5, 3, 1, 4, 10, 16, 7, 9]
+The 60 Communcation Round: Method: fedavgheal
+caltech10: 53.57,	amazon: 54.74,	webcam: 41.38,	dslr: 70.0
+Mean Accuracy: 54.922
+Standard Deviation: 11.727
+
+
+61
+[11, 18, 12, 6, 17, 8, 5, 4, 2, 0, 13, 14, 9, 7, 3, 1, 10, 16, 15, 19]
+The 61 Communcation Round: Method: fedavgheal
+caltech10: 54.46,	amazon: 57.89,	webcam: 41.38,	dslr: 66.67
+Mean Accuracy: 55.100
+Standard Deviation: 10.493
+
+
+62
+[16, 6, 13, 19, 3, 15, 11, 4, 9, 7, 17, 0, 12, 1, 18, 10, 2, 8, 14, 5]
+The 62 Communcation Round: Method: fedavgheal
+caltech10: 55.36,	amazon: 54.21,	webcam: 43.1,	dslr: 66.67
+Mean Accuracy: 54.835
+Standard Deviation: 9.634
+
+
+63
+[3, 8, 12, 10, 6, 1, 11, 19, 16, 14, 9, 4, 2, 7, 17, 15, 5, 18, 13, 0]
+The 63 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 53.16,	webcam: 44.83,	dslr: 70.0
+Mean Accuracy: 56.172
+Standard Deviation: 10.475
+
+
+64
+[13, 5, 10, 12, 8, 7, 18, 4, 6, 11, 17, 15, 2, 19, 9, 1, 0, 16, 3, 14]
+The 64 Communcation Round: Method: fedavgheal
+caltech10: 54.91,	amazon: 55.26,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 56.280
+Standard Deviation: 7.635
+
+
+65
+[2, 7, 4, 0, 19, 11, 5, 10, 9, 15, 1, 8, 17, 16, 13, 14, 3, 12, 6, 18]
+The 65 Communcation Round: Method: fedavgheal
+caltech10: 54.02,	amazon: 57.89,	webcam: 46.55,	dslr: 63.33
+Mean Accuracy: 55.447
+Standard Deviation: 7.055
+
+
+66
+[8, 5, 15, 6, 12, 19, 9, 14, 3, 17, 13, 1, 11, 2, 4, 0, 16, 18, 10, 7]
+The 66 Communcation Round: Method: fedavgheal
+caltech10: 54.02,	amazon: 58.42,	webcam: 43.1,	dslr: 66.67
+Mean Accuracy: 55.552
+Standard Deviation: 9.819
+
+
+67
+[7, 14, 9, 6, 11, 8, 5, 17, 13, 3, 18, 2, 15, 12, 19, 16, 10, 4, 1, 0]
+The 67 Communcation Round: Method: fedavgheal
+caltech10: 54.02,	amazon: 60.53,	webcam: 41.38,	dslr: 66.67
+Mean Accuracy: 55.650
+Standard Deviation: 10.825
+
+
+68
+[12, 13, 6, 5, 9, 19, 1, 11, 4, 17, 15, 14, 7, 0, 16, 8, 3, 2, 18, 10]
+The 68 Communcation Round: Method: fedavgheal
+caltech10: 55.36,	amazon: 63.68,	webcam: 41.38,	dslr: 60.0
+Mean Accuracy: 55.105
+Standard Deviation: 9.763
+
+
+69
+[1, 6, 9, 11, 17, 2, 16, 0, 13, 18, 10, 12, 19, 7, 14, 3, 5, 4, 15, 8]
+The 69 Communcation Round: Method: fedavgheal
+caltech10: 54.91,	amazon: 56.84,	webcam: 43.1,	dslr: 66.67
+Mean Accuracy: 55.380
+Standard Deviation: 9.672
+
+
+70
+[6, 9, 1, 5, 2, 3, 11, 19, 13, 12, 14, 18, 17, 16, 0, 10, 4, 15, 8, 7]
+The 70 Communcation Round: Method: fedavgheal
+caltech10: 56.25,	amazon: 56.32,	webcam: 43.1,	dslr: 66.67
+Mean Accuracy: 55.585
+Standard Deviation: 9.656
+
+
+71
+[6, 3, 14, 15, 11, 8, 0, 19, 10, 12, 4, 2, 18, 1, 7, 9, 5, 16, 13, 17]
+The 71 Communcation Round: Method: fedavgheal
+caltech10: 55.36,	amazon: 61.05,	webcam: 41.38,	dslr: 66.67
+Mean Accuracy: 56.115
+Standard Deviation: 10.854
+
+
+72
+[10, 6, 12, 8, 17, 11, 0, 15, 2, 4, 9, 14, 13, 19, 7, 18, 1, 5, 3, 16]
+The 72 Communcation Round: Method: fedavgheal
+caltech10: 55.8,	amazon: 58.42,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 56.457
+Standard Deviation: 6.282
+
+
+73
+[17, 7, 1, 14, 9, 6, 5, 13, 2, 12, 18, 4, 0, 15, 8, 3, 11, 10, 19, 16]
+The 73 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 66.32,	webcam: 44.83,	dslr: 66.67
+Mean Accuracy: 58.740
+Standard Deviation: 10.270
+
+
+74
+[9, 17, 15, 10, 6, 4, 3, 19, 8, 13, 16, 18, 5, 14, 2, 0, 1, 11, 12, 7]
+The 74 Communcation Round: Method: fedavgheal
+caltech10: 54.91,	amazon: 57.89,	webcam: 43.1,	dslr: 70.0
+Mean Accuracy: 56.475
+Standard Deviation: 11.049
+
+
+75
+[2, 11, 17, 8, 4, 12, 3, 15, 7, 18, 9, 19, 1, 6, 14, 0, 13, 10, 5, 16]
+The 75 Communcation Round: Method: fedavgheal
+caltech10: 54.91,	amazon: 54.74,	webcam: 44.83,	dslr: 63.33
+Mean Accuracy: 54.453
+Standard Deviation: 7.565
+
+
+76
+[0, 1, 12, 8, 11, 3, 9, 15, 18, 16, 2, 7, 19, 14, 4, 5, 10, 6, 17, 13]
+The 76 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 67.37,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 58.920
+Standard Deviation: 8.346
+
+
+77
+[10, 6, 13, 17, 11, 12, 15, 18, 3, 2, 14, 0, 4, 9, 19, 5, 7, 8, 1, 16]
+The 77 Communcation Round: Method: fedavgheal
+caltech10: 54.91,	amazon: 55.79,	webcam: 46.55,	dslr: 70.0
+Mean Accuracy: 56.812
+Standard Deviation: 9.728
+
+
+78
+[2, 14, 13, 11, 7, 19, 6, 10, 3, 16, 12, 18, 9, 8, 15, 1, 0, 4, 17, 5]
+The 78 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 60.53,	webcam: 46.55,	dslr: 66.67
+Mean Accuracy: 57.612
+Standard Deviation: 8.441
+
+
+79
+[4, 11, 10, 7, 13, 6, 9, 16, 0, 17, 3, 19, 2, 15, 5, 8, 12, 14, 18, 1]
+The 79 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 60.0,	webcam: 41.38,	dslr: 63.33
+Mean Accuracy: 55.353
+Standard Deviation: 9.700
+
+
+80
+[11, 12, 5, 1, 19, 16, 8, 7, 10, 6, 18, 0, 9, 2, 14, 3, 15, 13, 4, 17]
+The 80 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 61.58,	webcam: 46.55,	dslr: 70.0
+Mean Accuracy: 58.707
+Standard Deviation: 9.791
+
+
+81
+[10, 4, 6, 9, 13, 17, 3, 5, 16, 8, 19, 0, 14, 2, 7, 11, 15, 12, 18, 1]
+The 81 Communcation Round: Method: fedavgheal
+caltech10: 54.46,	amazon: 60.53,	webcam: 43.1,	dslr: 66.67
+Mean Accuracy: 56.190
+Standard Deviation: 10.050
+
+
+82
+[5, 0, 7, 15, 2, 13, 3, 18, 9, 12, 19, 6, 11, 10, 1, 17, 8, 14, 16, 4]
+The 82 Communcation Round: Method: fedavgheal
+caltech10: 56.25,	amazon: 57.89,	webcam: 43.1,	dslr: 66.67
+Mean Accuracy: 55.978
+Standard Deviation: 9.728
+
+
+83
+[2, 15, 16, 4, 1, 17, 19, 10, 8, 7, 3, 5, 12, 13, 9, 11, 18, 6, 14, 0]
+The 83 Communcation Round: Method: fedavgheal
+caltech10: 58.48,	amazon: 61.05,	webcam: 41.38,	dslr: 70.0
+Mean Accuracy: 57.727
+Standard Deviation: 11.965
+
+
+84
+[3, 11, 13, 5, 9, 4, 8, 15, 18, 12, 14, 16, 1, 2, 6, 7, 0, 17, 19, 10]
+The 84 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 55.79,	webcam: 48.28,	dslr: 70.0
+Mean Accuracy: 57.693
+Standard Deviation: 9.031
+
+
+85
+[0, 11, 14, 13, 9, 8, 15, 12, 1, 17, 2, 10, 16, 7, 4, 5, 3, 19, 6, 18]
+The 85 Communcation Round: Method: fedavgheal
+caltech10: 58.48,	amazon: 68.42,	webcam: 44.83,	dslr: 66.67
+Mean Accuracy: 59.600
+Standard Deviation: 10.758
+
+
+86
+[8, 1, 12, 2, 7, 18, 6, 11, 16, 10, 19, 9, 14, 13, 17, 5, 15, 4, 3, 0]
+The 86 Communcation Round: Method: fedavgheal
+caltech10: 54.91,	amazon: 60.0,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 57.465
+Standard Deviation: 7.790
+
+
+87
+[8, 3, 15, 9, 19, 4, 0, 13, 5, 14, 18, 17, 7, 1, 16, 2, 11, 12, 6, 10]
+The 87 Communcation Round: Method: fedavgheal
+caltech10: 55.8,	amazon: 64.21,	webcam: 51.72,	dslr: 66.67
+Mean Accuracy: 59.600
+Standard Deviation: 7.018
+
+
+88
+[0, 18, 17, 12, 14, 1, 19, 10, 3, 6, 11, 9, 16, 5, 8, 13, 7, 2, 4, 15]
+The 88 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 65.79,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 59.900
+Standard Deviation: 7.877
+
+
+89
+[6, 4, 0, 11, 16, 14, 15, 9, 5, 13, 19, 12, 10, 7, 17, 2, 3, 1, 8, 18]
+The 89 Communcation Round: Method: fedavgheal
+caltech10: 55.8,	amazon: 59.47,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 57.985
+Standard Deviation: 6.980
+
+
+90
+[3, 9, 6, 2, 4, 13, 14, 12, 15, 0, 19, 16, 11, 7, 10, 1, 8, 5, 18, 17]
+The 90 Communcation Round: Method: fedavgheal
+caltech10: 54.46,	amazon: 60.0,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 57.353
+Standard Deviation: 7.842
+
+
+91
+[0, 9, 2, 11, 13, 6, 5, 14, 1, 15, 16, 19, 17, 4, 7, 10, 3, 12, 18, 8]
+The 91 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 61.58,	webcam: 46.55,	dslr: 66.67
+Mean Accuracy: 58.097
+Standard Deviation: 8.548
+
+
+92
+[3, 19, 6, 4, 17, 12, 18, 0, 8, 5, 9, 16, 15, 11, 1, 2, 13, 10, 7, 14]
+The 92 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 63.68,	webcam: 51.72,	dslr: 66.67
+Mean Accuracy: 59.692
+Standard Deviation: 6.760
+
+
+93
+[19, 18, 5, 3, 9, 6, 16, 13, 7, 15, 2, 11, 14, 0, 10, 1, 12, 17, 4, 8]
+The 93 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 64.74,	webcam: 46.55,	dslr: 63.33
+Mean Accuracy: 57.940
+Standard Deviation: 8.280
+
+
+94
+[10, 5, 8, 2, 14, 15, 11, 19, 7, 17, 1, 12, 18, 4, 6, 13, 0, 16, 3, 9]
+The 94 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 63.16,	webcam: 48.28,	dslr: 73.33
+Mean Accuracy: 60.590
+Standard Deviation: 10.479
+
+
+95
+[0, 16, 15, 17, 18, 14, 2, 8, 3, 9, 13, 10, 12, 19, 7, 5, 11, 4, 1, 6]
+The 95 Communcation Round: Method: fedavgheal
+caltech10: 58.48,	amazon: 67.89,	webcam: 44.83,	dslr: 66.67
+Mean Accuracy: 59.468
+Standard Deviation: 10.615
+
+
+96
+[16, 17, 8, 18, 3, 19, 5, 2, 4, 10, 6, 1, 14, 7, 0, 9, 11, 12, 15, 13]
+The 96 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 60.0,	webcam: 46.55,	dslr: 70.0
+Mean Accuracy: 58.535
+Standard Deviation: 9.629
+
+
+97
+[18, 8, 7, 16, 5, 0, 1, 9, 3, 19, 14, 10, 13, 2, 4, 6, 15, 11, 12, 17]
+The 97 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 58.42,	webcam: 46.55,	dslr: 60.0
+Mean Accuracy: 55.528
+Standard Deviation: 6.098
+
+
+98
+[15, 11, 17, 13, 3, 1, 6, 7, 5, 18, 10, 0, 16, 12, 4, 8, 14, 19, 2, 9]
+The 98 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 65.79,	webcam: 48.28,	dslr: 70.0
+Mean Accuracy: 60.303
+Standard Deviation: 9.638
+
+
+99
+[6, 2, 4, 13, 11, 12, 0, 8, 9, 16, 15, 14, 7, 1, 17, 5, 3, 10, 18, 19]
+The 99 Communcation Round: Method: fedavgheal
+caltech10: 54.91,	amazon: 60.0,	webcam: 46.55,	dslr: 70.0
+Mean Accuracy: 57.865
+Standard Deviation: 9.808
+
+
+100
+[16, 14, 0, 15, 2, 5, 6, 1, 17, 19, 13, 4, 8, 7, 10, 18, 3, 11, 9, 12]
+The 100 Communcation Round: Method: fedavgheal
+caltech10: 55.8,	amazon: 62.63,	webcam: 55.17,	dslr: 63.33
+Mean Accuracy: 59.233
+Standard Deviation: 4.344
+
+
+101
+[2, 11, 15, 14, 0, 12, 8, 4, 17, 7, 1, 5, 9, 19, 13, 10, 18, 16, 3, 6]
+The 101 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 62.11,	webcam: 51.72,	dslr: 66.67
+Mean Accuracy: 59.410
+Standard Deviation: 6.437
+
+
+102
+[3, 13, 12, 16, 17, 19, 15, 14, 10, 7, 8, 4, 9, 5, 18, 1, 0, 2, 6, 11]
+The 102 Communcation Round: Method: fedavgheal
+caltech10: 58.48,	amazon: 70.53,	webcam: 48.28,	dslr: 70.0
+Mean Accuracy: 61.822
+Standard Deviation: 10.603
+
+
+103
+[4, 17, 0, 2, 8, 12, 1, 3, 13, 6, 9, 16, 5, 15, 14, 19, 7, 11, 10, 18]
+The 103 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 68.42,	webcam: 48.28,	dslr: 70.0
+Mean Accuracy: 60.960
+Standard Deviation: 10.210
+
+
+104
+[6, 15, 3, 11, 14, 19, 8, 13, 0, 2, 10, 4, 18, 16, 7, 9, 12, 1, 5, 17]
+The 104 Communcation Round: Method: fedavgheal
+caltech10: 55.8,	amazon: 61.05,	webcam: 48.28,	dslr: 60.0
+Mean Accuracy: 56.282
+Standard Deviation: 5.797
+
+
+105
+[15, 7, 0, 17, 16, 11, 9, 19, 18, 5, 2, 3, 14, 12, 8, 13, 10, 1, 6, 4]
+The 105 Communcation Round: Method: fedavgheal
+caltech10: 54.46,	amazon: 60.53,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 57.485
+Standard Deviation: 7.906
+
+
+106
+[0, 8, 19, 13, 4, 17, 9, 14, 10, 1, 18, 6, 2, 12, 15, 11, 16, 7, 5, 3]
+The 106 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 67.37,	webcam: 48.28,	dslr: 60.0
+Mean Accuracy: 58.088
+Standard Deviation: 7.915
+
+
+107
+[9, 7, 6, 11, 16, 5, 8, 4, 14, 10, 2, 1, 19, 13, 3, 15, 17, 18, 12, 0]
+The 107 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 65.26,	webcam: 48.28,	dslr: 70.0
+Mean Accuracy: 60.170
+Standard Deviation: 9.541
+
+
+108
+[10, 7, 4, 11, 0, 8, 14, 3, 16, 2, 17, 5, 12, 18, 13, 6, 9, 19, 1, 15]
+The 108 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 67.89,	webcam: 51.72,	dslr: 63.33
+Mean Accuracy: 59.910
+Standard Deviation: 7.136
+
+
+109
+[0, 7, 18, 1, 3, 14, 10, 4, 9, 13, 11, 2, 5, 19, 15, 16, 8, 12, 6, 17]
+The 109 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 65.79,	webcam: 50.0,	dslr: 63.33
+Mean Accuracy: 59.065
+Standard Deviation: 7.054
+
+
+110
+[13, 12, 1, 0, 15, 18, 5, 10, 7, 4, 6, 19, 14, 2, 9, 11, 16, 3, 8, 17]
+The 110 Communcation Round: Method: fedavgheal
+caltech10: 58.04,	amazon: 66.32,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 59.828
+Standard Deviation: 8.670
+
+
+111
+[19, 12, 6, 13, 2, 9, 18, 3, 8, 7, 16, 0, 17, 4, 10, 14, 5, 11, 1, 15]
+The 111 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 63.16,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 57.867
+Standard Deviation: 7.098
+
+
+112
+[0, 5, 10, 9, 17, 16, 7, 2, 19, 15, 12, 1, 13, 14, 4, 3, 11, 6, 8, 18]
+The 112 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 63.16,	webcam: 43.1,	dslr: 60.0
+Mean Accuracy: 55.850
+Standard Deviation: 8.848
+
+
+113
+[11, 10, 2, 16, 6, 4, 1, 17, 12, 8, 13, 18, 5, 14, 19, 0, 15, 9, 3, 7]
+The 113 Communcation Round: Method: fedavgheal
+caltech10: 54.46,	amazon: 60.0,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 57.353
+Standard Deviation: 7.842
+
+
+114
+[14, 9, 1, 18, 0, 3, 17, 6, 5, 7, 12, 8, 13, 4, 10, 15, 11, 19, 16, 2]
+The 114 Communcation Round: Method: fedavgheal
+caltech10: 55.8,	amazon: 62.63,	webcam: 48.28,	dslr: 60.0
+Mean Accuracy: 56.678
+Standard Deviation: 6.265
+
+
+115
+[18, 10, 13, 15, 14, 16, 17, 0, 2, 5, 3, 4, 8, 19, 12, 7, 11, 1, 9, 6]
+The 115 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 68.42,	webcam: 51.72,	dslr: 70.0
+Mean Accuracy: 61.933
+Standard Deviation: 8.762
+
+
+116
+[19, 17, 7, 14, 4, 6, 15, 2, 18, 0, 16, 12, 11, 10, 5, 1, 9, 3, 8, 13]
+The 116 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 60.0,	webcam: 46.55,	dslr: 60.0
+Mean Accuracy: 55.922
+Standard Deviation: 6.392
+
+
+117
+[2, 3, 17, 13, 0, 19, 1, 9, 14, 16, 12, 5, 7, 6, 18, 10, 8, 15, 11, 4]
+The 117 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 68.95,	webcam: 46.55,	dslr: 63.33
+Mean Accuracy: 59.105
+Standard Deviation: 9.569
+
+
+118
+[14, 10, 4, 16, 1, 15, 18, 13, 11, 19, 8, 5, 12, 3, 17, 2, 7, 6, 0, 9]
+The 118 Communcation Round: Method: fedavgheal
+caltech10: 56.25,	amazon: 61.58,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 58.625
+Standard Deviation: 7.153
+
+
+119
+[1, 9, 17, 8, 5, 12, 2, 15, 14, 0, 13, 16, 3, 19, 11, 4, 6, 10, 18, 7]
+The 119 Communcation Round: Method: fedavgheal
+caltech10: 54.46,	amazon: 66.84,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 58.228
+Standard Deviation: 8.433
+
+
+120
+[17, 6, 4, 14, 0, 7, 10, 3, 1, 2, 13, 18, 11, 19, 15, 12, 16, 8, 5, 9]
+The 120 Communcation Round: Method: fedavgheal
+caltech10: 54.91,	amazon: 68.42,	webcam: 48.28,	dslr: 60.0
+Mean Accuracy: 57.903
+Standard Deviation: 8.496
+
+
+121
+[18, 10, 2, 19, 9, 14, 17, 11, 16, 13, 15, 8, 6, 1, 5, 12, 4, 3, 7, 0]
+The 121 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 64.74,	webcam: 46.55,	dslr: 60.0
+Mean Accuracy: 57.108
+Standard Deviation: 7.705
+
+
+122
+[1, 15, 10, 9, 13, 4, 18, 17, 19, 11, 6, 14, 7, 16, 5, 0, 8, 3, 2, 12]
+The 122 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 66.32,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 58.767
+Standard Deviation: 7.969
+
+
+123
+[7, 2, 19, 8, 11, 9, 3, 15, 14, 18, 13, 4, 1, 10, 0, 5, 16, 17, 12, 6]
+The 123 Communcation Round: Method: fedavgheal
+caltech10: 58.93,	amazon: 60.53,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 58.603
+Standard Deviation: 7.648
+
+
+124
+[3, 9, 17, 11, 13, 7, 12, 6, 8, 10, 19, 1, 0, 15, 16, 2, 4, 14, 5, 18]
+The 124 Communcation Round: Method: fedavgheal
+caltech10: 56.25,	amazon: 62.63,	webcam: 50.0,	dslr: 63.33
+Mean Accuracy: 58.052
+Standard Deviation: 6.242
+
+
+125
+[6, 8, 13, 0, 4, 14, 19, 9, 12, 11, 2, 3, 17, 7, 1, 5, 15, 10, 16, 18]
+The 125 Communcation Round: Method: fedavgheal
+caltech10: 55.8,	amazon: 62.63,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 57.510
+Standard Deviation: 7.029
+
+
+126
+[19, 3, 9, 18, 11, 8, 0, 15, 2, 1, 5, 10, 13, 4, 6, 14, 17, 16, 12, 7]
+The 126 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 64.21,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 58.965
+Standard Deviation: 8.290
+
+
+127
+[14, 3, 7, 17, 10, 16, 0, 2, 8, 18, 6, 4, 12, 15, 1, 9, 19, 11, 13, 5]
+The 127 Communcation Round: Method: fedavgheal
+caltech10: 58.04,	amazon: 65.26,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 59.993
+Standard Deviation: 7.659
+
+
+128
+[12, 8, 14, 17, 3, 16, 2, 7, 9, 11, 10, 4, 19, 0, 5, 13, 18, 15, 1, 6]
+The 128 Communcation Round: Method: fedavgheal
+caltech10: 54.91,	amazon: 68.95,	webcam: 50.0,	dslr: 60.0
+Mean Accuracy: 58.465
+Standard Deviation: 8.095
+
+
+129
+[0, 3, 4, 18, 14, 12, 1, 6, 2, 5, 19, 17, 15, 9, 8, 13, 10, 11, 7, 16]
+The 129 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 62.11,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 58.440
+Standard Deviation: 7.905
+
+
+130
+[6, 2, 13, 5, 19, 15, 8, 7, 12, 17, 18, 9, 10, 0, 1, 4, 3, 16, 11, 14]
+The 130 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 60.0,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 58.453
+Standard Deviation: 6.906
+
+
+131
+[5, 12, 7, 10, 15, 16, 3, 9, 0, 2, 4, 8, 1, 17, 13, 6, 18, 14, 19, 11]
+The 131 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 67.89,	webcam: 50.0,	dslr: 63.33
+Mean Accuracy: 59.590
+Standard Deviation: 7.764
+
+
+132
+[3, 0, 6, 5, 9, 15, 12, 7, 8, 11, 2, 16, 10, 17, 4, 1, 13, 18, 19, 14]
+The 132 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 65.26,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 58.615
+Standard Deviation: 7.621
+
+
+133
+[10, 3, 15, 2, 4, 0, 6, 7, 16, 8, 1, 18, 11, 17, 19, 5, 12, 14, 9, 13]
+The 133 Communcation Round: Method: fedavgheal
+caltech10: 58.48,	amazon: 58.95,	webcam: 48.28,	dslr: 60.0
+Mean Accuracy: 56.428
+Standard Deviation: 5.469
+
+
+134
+[18, 0, 13, 2, 16, 4, 14, 3, 7, 8, 10, 1, 6, 5, 9, 15, 11, 17, 12, 19]
+The 134 Communcation Round: Method: fedavgheal
+caltech10: 58.93,	amazon: 68.42,	webcam: 50.0,	dslr: 63.33
+Mean Accuracy: 60.170
+Standard Deviation: 7.811
+
+
+135
+[13, 18, 3, 5, 4, 14, 1, 12, 19, 8, 9, 15, 2, 6, 7, 10, 0, 16, 17, 11]
+The 135 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 66.32,	webcam: 48.28,	dslr: 60.0
+Mean Accuracy: 57.935
+Standard Deviation: 7.493
+
+
+136
+[8, 15, 7, 13, 0, 16, 2, 10, 4, 17, 3, 12, 9, 6, 5, 19, 1, 11, 18, 14]
+The 136 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 66.32,	webcam: 51.72,	dslr: 63.33
+Mean Accuracy: 59.740
+Standard Deviation: 6.458
+
+
+137
+[16, 4, 8, 11, 17, 18, 9, 7, 0, 1, 19, 12, 6, 2, 15, 10, 13, 5, 3, 14]
+The 137 Communcation Round: Method: fedavgheal
+caltech10: 56.25,	amazon: 69.47,	webcam: 50.0,	dslr: 53.33
+Mean Accuracy: 57.263
+Standard Deviation: 8.529
+
+
+138
+[2, 17, 1, 3, 0, 14, 16, 7, 4, 15, 12, 5, 11, 18, 10, 8, 6, 13, 19, 9]
+The 138 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 66.32,	webcam: 50.0,	dslr: 63.33
+Mean Accuracy: 59.197
+Standard Deviation: 7.226
+
+
+139
+[16, 7, 14, 17, 19, 0, 10, 15, 1, 12, 13, 18, 9, 2, 11, 8, 5, 4, 3, 6]
+The 139 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 66.84,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 59.010
+Standard Deviation: 8.106
+
+
+140
+[13, 0, 8, 6, 19, 3, 5, 14, 1, 9, 11, 16, 12, 17, 7, 10, 4, 2, 18, 15]
+The 140 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 67.89,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 60.315
+Standard Deviation: 8.509
+
+
+141
+[4, 5, 3, 12, 10, 19, 7, 17, 1, 8, 6, 16, 15, 14, 13, 2, 9, 11, 0, 18]
+The 141 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 66.32,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 60.032
+Standard Deviation: 8.013
+
+
+142
+[2, 11, 3, 0, 17, 10, 7, 15, 4, 1, 19, 6, 18, 13, 8, 12, 14, 9, 5, 16]
+The 142 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 65.26,	webcam: 51.72,	dslr: 66.67
+Mean Accuracy: 60.198
+Standard Deviation: 7.041
+
+
+143
+[19, 11, 12, 5, 16, 13, 8, 3, 2, 4, 14, 7, 0, 15, 6, 10, 18, 17, 1, 9]
+The 143 Communcation Round: Method: fedavgheal
+caltech10: 60.27,	amazon: 67.89,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 60.778
+Standard Deviation: 8.977
+
+
+144
+[6, 10, 12, 13, 9, 1, 15, 18, 8, 19, 17, 7, 5, 0, 3, 14, 11, 16, 2, 4]
+The 144 Communcation Round: Method: fedavgheal
+caltech10: 58.93,	amazon: 68.42,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 61.005
+Standard Deviation: 8.416
+
+
+145
+[18, 12, 10, 9, 19, 11, 3, 6, 14, 16, 2, 17, 4, 8, 13, 7, 0, 5, 1, 15]
+The 145 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 69.47,	webcam: 48.28,	dslr: 60.0
+Mean Accuracy: 58.835
+Standard Deviation: 8.707
+
+
+146
+[11, 1, 14, 9, 17, 3, 19, 4, 15, 18, 2, 5, 0, 6, 7, 8, 10, 16, 13, 12]
+The 146 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 63.68,	webcam: 46.55,	dslr: 60.0
+Mean Accuracy: 56.843
+Standard Deviation: 7.365
+
+
+147
+[1, 5, 16, 11, 4, 0, 10, 2, 13, 15, 14, 6, 3, 17, 12, 7, 19, 9, 8, 18]
+The 147 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 68.95,	webcam: 51.72,	dslr: 70.0
+Mean Accuracy: 61.953
+Standard Deviation: 8.974
+
+
+148
+[19, 8, 6, 14, 9, 12, 15, 16, 1, 11, 13, 3, 17, 7, 18, 4, 5, 10, 2, 0]
+The 148 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 66.84,	webcam: 43.1,	dslr: 63.33
+Mean Accuracy: 57.715
+Standard Deviation: 10.463
+
+
+149
+[19, 1, 11, 12, 18, 8, 5, 2, 0, 15, 7, 3, 13, 9, 6, 16, 4, 10, 14, 17]
+The 149 Communcation Round: Method: fedavgheal
+caltech10: 55.8,	amazon: 64.21,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 58.740
+Standard Deviation: 8.384
+
+
+150
+[8, 3, 13, 14, 2, 18, 6, 4, 15, 0, 17, 12, 9, 11, 1, 7, 16, 10, 19, 5]
+The 150 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 68.42,	webcam: 50.0,	dslr: 60.0
+Mean Accuracy: 59.002
+Standard Deviation: 7.588
+
+
+151
+[3, 10, 8, 18, 0, 7, 9, 6, 1, 4, 16, 14, 13, 19, 17, 2, 5, 12, 15, 11]
+The 151 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 64.74,	webcam: 51.72,	dslr: 60.0
+Mean Accuracy: 58.400
+Standard Deviation: 5.446
+
+
+152
+[11, 3, 7, 18, 1, 14, 16, 5, 17, 19, 13, 12, 10, 0, 8, 9, 4, 6, 15, 2]
+The 152 Communcation Round: Method: fedavgheal
+caltech10: 54.91,	amazon: 62.11,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 57.157
+Standard Deviation: 6.988
+
+
+153
+[6, 7, 12, 14, 4, 18, 0, 10, 1, 16, 9, 19, 8, 15, 13, 17, 11, 3, 2, 5]
+The 153 Communcation Round: Method: fedavgheal
+caltech10: 55.36,	amazon: 67.37,	webcam: 50.0,	dslr: 63.33
+Mean Accuracy: 59.015
+Standard Deviation: 7.811
+
+
+154
+[7, 18, 9, 5, 2, 8, 19, 10, 14, 1, 16, 12, 3, 11, 17, 6, 4, 0, 13, 15]
+The 154 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 65.26,	webcam: 46.55,	dslr: 63.33
+Mean Accuracy: 58.183
+Standard Deviation: 8.411
+
+
+155
+[13, 12, 17, 10, 8, 7, 18, 2, 16, 3, 9, 5, 11, 15, 14, 4, 6, 19, 0, 1]
+The 155 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 63.68,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 57.998
+Standard Deviation: 7.230
+
+
+156
+[18, 12, 16, 5, 7, 11, 13, 2, 9, 17, 1, 6, 14, 19, 10, 3, 0, 15, 8, 4]
+The 156 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 61.58,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 58.530
+Standard Deviation: 7.778
+
+
+157
+[11, 1, 13, 12, 8, 17, 2, 6, 18, 0, 4, 10, 7, 9, 15, 14, 16, 3, 19, 5]
+The 157 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 68.95,	webcam: 46.55,	dslr: 63.33
+Mean Accuracy: 58.992
+Standard Deviation: 9.595
+
+
+158
+[1, 10, 4, 16, 9, 12, 11, 5, 3, 8, 13, 6, 15, 17, 19, 14, 7, 18, 0, 2]
+The 158 Communcation Round: Method: fedavgheal
+caltech10: 56.25,	amazon: 71.05,	webcam: 50.0,	dslr: 63.33
+Mean Accuracy: 60.157
+Standard Deviation: 9.077
+
+
+159
+[19, 6, 3, 12, 0, 13, 7, 4, 8, 17, 18, 5, 10, 1, 11, 9, 16, 14, 15, 2]
+The 159 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 65.79,	webcam: 50.0,	dslr: 56.67
+Mean Accuracy: 57.400
+Standard Deviation: 6.474
+
+
+160
+[12, 19, 10, 5, 15, 9, 2, 8, 7, 4, 13, 11, 14, 1, 16, 0, 3, 18, 17, 6]
+The 160 Communcation Round: Method: fedavgheal
+caltech10: 56.25,	amazon: 68.42,	webcam: 46.55,	dslr: 66.67
+Mean Accuracy: 59.472
+Standard Deviation: 10.153
+
+
+161
+[9, 4, 12, 11, 13, 16, 10, 1, 15, 2, 14, 18, 5, 6, 19, 8, 17, 0, 7, 3]
+The 161 Communcation Round: Method: fedavgheal
+caltech10: 58.48,	amazon: 68.42,	webcam: 50.0,	dslr: 63.33
+Mean Accuracy: 60.058
+Standard Deviation: 7.838
+
+
+162
+[13, 0, 7, 14, 8, 1, 9, 4, 19, 12, 5, 2, 3, 6, 16, 15, 11, 10, 18, 17]
+The 162 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 64.21,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 58.130
+Standard Deviation: 7.373
+
+
+163
+[11, 17, 1, 14, 18, 0, 6, 15, 3, 19, 5, 12, 8, 7, 4, 16, 2, 13, 9, 10]
+The 163 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 68.42,	webcam: 50.0,	dslr: 60.0
+Mean Accuracy: 59.002
+Standard Deviation: 7.588
+
+
+164
+[10, 19, 0, 13, 2, 6, 18, 17, 1, 11, 4, 7, 16, 12, 9, 8, 14, 3, 5, 15]
+The 164 Communcation Round: Method: fedavgheal
+caltech10: 58.48,	amazon: 65.26,	webcam: 50.0,	dslr: 63.33
+Mean Accuracy: 59.267
+Standard Deviation: 6.805
+
+
+165
+[0, 4, 11, 17, 8, 19, 1, 13, 14, 2, 18, 16, 10, 6, 12, 9, 5, 15, 3, 7]
+The 165 Communcation Round: Method: fedavgheal
+caltech10: 55.36,	amazon: 65.79,	webcam: 46.55,	dslr: 56.67
+Mean Accuracy: 56.093
+Standard Deviation: 7.873
+
+
+166
+[16, 9, 4, 13, 8, 15, 6, 3, 0, 17, 18, 10, 1, 2, 12, 14, 11, 5, 19, 7]
+The 166 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 61.05,	webcam: 48.28,	dslr: 66.67
+Mean Accuracy: 58.285
+Standard Deviation: 7.732
+
+
+167
+[7, 17, 2, 12, 1, 18, 9, 4, 10, 8, 19, 3, 15, 11, 6, 16, 5, 0, 14, 13]
+The 167 Communcation Round: Method: fedavgheal
+caltech10: 58.04,	amazon: 70.0,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 59.912
+Standard Deviation: 9.170
+
+
+168
+[19, 13, 16, 6, 7, 18, 3, 0, 15, 11, 9, 8, 1, 17, 5, 14, 2, 12, 4, 10]
+The 168 Communcation Round: Method: fedavgheal
+caltech10: 58.48,	amazon: 70.53,	webcam: 51.72,	dslr: 66.67
+Mean Accuracy: 61.850
+Standard Deviation: 8.417
+
+
+169
+[13, 9, 2, 4, 12, 0, 5, 18, 10, 16, 6, 17, 3, 8, 14, 7, 11, 15, 1, 19]
+The 169 Communcation Round: Method: fedavgheal
+caltech10: 56.25,	amazon: 65.79,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 59.678
+Standard Deviation: 7.993
+
+
+170
+[2, 6, 9, 4, 8, 7, 3, 19, 12, 16, 5, 15, 13, 10, 14, 0, 1, 11, 17, 18]
+The 170 Communcation Round: Method: fedavgheal
+caltech10: 60.27,	amazon: 70.53,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 61.868
+Standard Deviation: 8.972
+
+
+171
+[1, 19, 16, 15, 13, 8, 14, 10, 9, 18, 5, 12, 4, 3, 6, 2, 7, 17, 0, 11]
+The 171 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 67.37,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 59.142
+Standard Deviation: 8.279
+
+
+172
+[16, 14, 11, 17, 1, 2, 18, 19, 13, 3, 6, 5, 7, 0, 12, 15, 9, 8, 4, 10]
+The 172 Communcation Round: Method: fedavgheal
+caltech10: 58.48,	amazon: 68.42,	webcam: 48.28,	dslr: 56.67
+Mean Accuracy: 57.963
+Standard Deviation: 8.267
+
+
+173
+[19, 3, 11, 14, 13, 2, 18, 9, 17, 4, 5, 6, 0, 15, 10, 8, 7, 16, 12, 1]
+The 173 Communcation Round: Method: fedavgheal
+caltech10: 58.04,	amazon: 64.21,	webcam: 48.28,	dslr: 60.0
+Mean Accuracy: 57.633
+Standard Deviation: 6.745
+
+
+174
+[1, 19, 5, 0, 11, 16, 3, 9, 13, 12, 4, 6, 10, 8, 7, 17, 14, 18, 15, 2]
+The 174 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 64.74,	webcam: 46.55,	dslr: 66.67
+Mean Accuracy: 58.775
+Standard Deviation: 9.129
+
+
+175
+[7, 3, 12, 6, 16, 10, 0, 5, 18, 9, 8, 14, 17, 4, 1, 11, 15, 13, 19, 2]
+The 175 Communcation Round: Method: fedavgheal
+caltech10: 58.04,	amazon: 68.95,	webcam: 51.72,	dslr: 66.67
+Mean Accuracy: 61.345
+Standard Deviation: 7.953
+
+
+176
+[7, 1, 10, 8, 4, 3, 14, 5, 9, 19, 13, 11, 16, 0, 2, 6, 12, 15, 18, 17]
+The 176 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 66.84,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 60.053
+Standard Deviation: 8.209
+
+
+177
+[0, 9, 14, 1, 6, 16, 7, 13, 8, 11, 12, 3, 15, 18, 5, 2, 19, 4, 10, 17]
+The 177 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 61.05,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 57.562
+Standard Deviation: 6.623
+
+
+178
+[4, 10, 15, 1, 9, 0, 17, 14, 16, 13, 12, 18, 11, 7, 8, 5, 2, 6, 19, 3]
+The 178 Communcation Round: Method: fedavgheal
+caltech10: 56.25,	amazon: 63.16,	webcam: 50.0,	dslr: 60.0
+Mean Accuracy: 57.352
+Standard Deviation: 5.657
+
+
+179
+[15, 0, 13, 16, 14, 3, 9, 17, 2, 4, 7, 10, 18, 19, 12, 6, 1, 11, 8, 5]
+The 179 Communcation Round: Method: fedavgheal
+caltech10: 59.82,	amazon: 65.79,	webcam: 53.45,	dslr: 66.67
+Mean Accuracy: 61.433
+Standard Deviation: 6.130
+
+
+180
+[15, 11, 19, 18, 3, 9, 8, 6, 10, 12, 14, 16, 1, 5, 2, 7, 13, 0, 4, 17]
+The 180 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 65.26,	webcam: 51.72,	dslr: 66.67
+Mean Accuracy: 60.088
+Standard Deviation: 7.108
+
+
+181
+[7, 10, 3, 16, 12, 15, 11, 0, 1, 18, 9, 2, 8, 14, 13, 19, 5, 17, 6, 4]
+The 181 Communcation Round: Method: fedavgheal
+caltech10: 55.36,	amazon: 61.05,	webcam: 46.55,	dslr: 66.67
+Mean Accuracy: 57.407
+Standard Deviation: 8.586
+
+
+182
+[9, 19, 3, 5, 12, 15, 14, 4, 18, 2, 6, 7, 11, 0, 16, 17, 1, 13, 10, 8]
+The 182 Communcation Round: Method: fedavgheal
+caltech10: 58.04,	amazon: 66.84,	webcam: 46.55,	dslr: 60.0
+Mean Accuracy: 57.858
+Standard Deviation: 8.429
+
+
+183
+[3, 11, 1, 13, 2, 5, 17, 8, 15, 12, 7, 10, 18, 4, 9, 14, 6, 0, 19, 16]
+The 183 Communcation Round: Method: fedavgheal
+caltech10: 58.93,	amazon: 70.0,	webcam: 50.0,	dslr: 60.0
+Mean Accuracy: 59.733
+Standard Deviation: 8.182
+
+
+184
+[15, 7, 3, 1, 10, 18, 4, 11, 9, 13, 2, 5, 16, 19, 6, 8, 17, 12, 0, 14]
+The 184 Communcation Round: Method: fedavgheal
+caltech10: 55.36,	amazon: 65.26,	webcam: 46.55,	dslr: 70.0
+Mean Accuracy: 59.293
+Standard Deviation: 10.458
+
+
+185
+[7, 10, 3, 0, 9, 8, 4, 6, 15, 12, 18, 16, 5, 1, 19, 11, 2, 17, 14, 13]
+The 185 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 68.95,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 60.803
+Standard Deviation: 8.714
+
+
+186
+[11, 6, 14, 17, 9, 4, 12, 8, 13, 19, 16, 10, 18, 1, 5, 0, 15, 2, 3, 7]
+The 186 Communcation Round: Method: fedavgheal
+caltech10: 55.8,	amazon: 67.89,	webcam: 53.45,	dslr: 60.0
+Mean Accuracy: 59.285
+Standard Deviation: 6.344
+
+
+187
+[16, 12, 1, 0, 17, 8, 19, 9, 15, 18, 14, 13, 2, 3, 6, 7, 4, 10, 5, 11]
+The 187 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 70.53,	webcam: 55.17,	dslr: 63.33
+Mean Accuracy: 61.655
+Standard Deviation: 6.835
+
+
+188
+[17, 15, 19, 6, 13, 12, 4, 11, 10, 1, 8, 16, 0, 5, 14, 9, 18, 7, 2, 3]
+The 188 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 67.89,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 60.538
+Standard Deviation: 8.394
+
+
+189
+[18, 2, 1, 7, 5, 9, 12, 10, 16, 13, 8, 17, 3, 14, 19, 11, 0, 4, 15, 6]
+The 189 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 68.42,	webcam: 51.72,	dslr: 63.33
+Mean Accuracy: 60.153
+Standard Deviation: 7.272
+
+
+190
+[13, 16, 5, 19, 10, 7, 6, 3, 15, 12, 18, 14, 2, 17, 4, 9, 1, 0, 8, 11]
+The 190 Communcation Round: Method: fedavgheal
+caltech10: 55.8,	amazon: 66.84,	webcam: 50.0,	dslr: 60.0
+Mean Accuracy: 58.160
+Standard Deviation: 7.092
+
+
+191
+[2, 10, 13, 18, 12, 6, 14, 8, 0, 17, 11, 1, 15, 9, 5, 16, 4, 7, 19, 3]
+The 191 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 71.05,	webcam: 51.72,	dslr: 66.67
+Mean Accuracy: 61.645
+Standard Deviation: 8.804
+
+
+192
+[4, 6, 1, 17, 11, 15, 16, 8, 19, 12, 10, 14, 3, 18, 5, 13, 7, 9, 0, 2]
+The 192 Communcation Round: Method: fedavgheal
+caltech10: 58.93,	amazon: 70.53,	webcam: 50.0,	dslr: 63.33
+Mean Accuracy: 60.698
+Standard Deviation: 8.586
+
+
+193
+[3, 6, 12, 8, 5, 16, 13, 2, 7, 11, 18, 15, 17, 0, 1, 14, 4, 19, 10, 9]
+The 193 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 66.32,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 60.032
+Standard Deviation: 8.013
+
+
+194
+[15, 8, 14, 6, 17, 9, 19, 12, 7, 4, 13, 2, 16, 1, 5, 3, 10, 18, 11, 0]
+The 194 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 70.53,	webcam: 55.17,	dslr: 63.33
+Mean Accuracy: 61.433
+Standard Deviation: 7.023
+
+
+195
+[12, 7, 4, 13, 9, 10, 17, 8, 2, 6, 11, 5, 3, 16, 18, 15, 0, 19, 1, 14]
+The 195 Communcation Round: Method: fedavgheal
+caltech10: 58.04,	amazon: 66.32,	webcam: 48.28,	dslr: 63.33
+Mean Accuracy: 58.992
+Standard Deviation: 7.920
+
+
+196
+[14, 4, 19, 1, 15, 5, 18, 6, 3, 12, 10, 7, 9, 16, 2, 11, 0, 17, 13, 8]
+The 196 Communcation Round: Method: fedavgheal
+caltech10: 56.7,	amazon: 66.84,	webcam: 53.45,	dslr: 66.67
+Mean Accuracy: 60.915
+Standard Deviation: 6.873
+
+
+197
+[2, 17, 12, 10, 3, 14, 19, 15, 1, 0, 4, 13, 8, 5, 6, 18, 7, 11, 16, 9]
+The 197 Communcation Round: Method: fedavgheal
+caltech10: 59.38,	amazon: 67.89,	webcam: 50.0,	dslr: 63.33
+Mean Accuracy: 60.150
+Standard Deviation: 7.608
+
+
+198
+[5, 18, 4, 9, 16, 13, 10, 6, 12, 2, 7, 0, 14, 15, 11, 17, 1, 19, 8, 3]
+The 198 Communcation Round: Method: fedavgheal
+caltech10: 57.14,	amazon: 68.42,	webcam: 55.17,	dslr: 70.0
+Mean Accuracy: 62.683
+Standard Deviation: 7.607
+
+
+199
+[18, 14, 4, 19, 10, 0, 13, 5, 12, 11, 16, 9, 15, 7, 2, 8, 6, 1, 3, 17]
+The 199 Communcation Round: Method: fedavgheal
+caltech10: 57.59,	amazon: 70.0,	webcam: 50.0,	dslr: 66.67
+Mean Accuracy: 61.065
+Standard Deviation: 9.051
+
+
